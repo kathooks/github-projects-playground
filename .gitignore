@@ -1,3 +1,6 @@
+#node modules
+.DS_Strore
+
 # History files
 .Rhistory
 .Rapp.history
